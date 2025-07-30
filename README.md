@@ -2,4 +2,4 @@
 
 ### 🎯 Project Goal
 
-> An anomaly detection project predicting future poses using skeleton-based time-series data and detecting falls through prediction errors
+> An anomaly detection project that predicts future poses using skeleton-based time-series data and detects falls based on prediction errors.
